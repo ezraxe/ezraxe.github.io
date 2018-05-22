@@ -1,5 +1,5 @@
 # Site settings
-title: BY Blog
+title: Ezra Blog
 SEOTitle: 张振的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: 215824568@qq.com
@@ -103,7 +103,7 @@ friends: [
         href: "http://zhengwuyang.com"
     },{
         title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        href: "http://www.jianshu.com/"
     },{
         title: "Apple",
         href: "https://apple.com"
