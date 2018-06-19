@@ -25,12 +25,12 @@ tags:
 平时神经网络中的正向传播就是转换成了如上矩阵运算。
 那么当反向传播时又会如何呢？首先我们已经有从更深层的网络中得到的.
 
-![1529395223885](C:\Users\Ezra\AppData\Local\Temp\1529395223885.png)
+![1529395223885](https://github.com/ezraxe/ezraxe.github.io/raw/master/img/1529395223885.png)
 
 回想第一句话，你猜的没错，所谓逆卷积其实就是正向时左乘，而反向时左乘，即的运算。
 逆卷积的一个很有趣的应用是GAN(Generative Adversarial Network)里用来生成图片：Generative Models
 
-![1529395234075](C:\Users\Ezra\AppData\Local\Temp\1529395234075.png)
+![1529395234075](https://github.com/ezraxe/ezraxe.github.io/raw/master/img/1529395234075.png)
 
 ----
 [1603.07285] A guide to convolution arithmetic for deep learning
