@@ -1,11 +1,15 @@
+---
 layout:     post
 title:      deconvolution networks 
 subtitle:   反卷积
-date:       2018-06-01
+date:       2018-05-23
 author:     Ezra
 catalog: true
 tags:
-    - Blog
+    - Distributed DL
+---
+
+
 
 作者：张萌
 链接：https://www.zhihu.com/question/43609045/answer/120266511
