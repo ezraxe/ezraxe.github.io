@@ -1,8 +1,8 @@
 layout:     post
 
-title:      李沐分布式机器学习视频总结1
+title:     网络解析（一）：LeNet-5详解
 
-subtitle:   李沐分布式机器学习视频总结1
+subtitle:   网络解析（一）：LeNet-5详解
 
 date:       2018-05-27
 
@@ -10,9 +10,7 @@ author:     Ezra
 
 catalog: true
 
-tags:
-
-    - DL
+tags: -DL
 
 
 
