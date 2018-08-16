@@ -1,3 +1,21 @@
+layout:     post
+
+title:      李沐分布式机器学习视频总结1
+
+subtitle:   李沐分布式机器学习视频总结1
+
+date:       2018-05-27
+
+author:     Ezra
+
+catalog: true
+
+tags:
+
+    - DL
+
+
+
 # 网络解析（一）：LeNet-5详解
 
 http://cuijiahua.com/blog/2018/01/dl_3.html
